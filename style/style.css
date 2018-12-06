@@ -1,0 +1,36 @@
+* {
+    margin:0;
+        padding:0;
+}
+    html {
+        background-color:rgb(185, 170, 170);
+}
+    h1 {
+        text-align: center;
+}
+    .logo {
+        margin:1%;
+            
+        }
+    img {
+        height:180px;
+            width:13%;
+                border-radius: 18%;
+                    margin:auto;
+                        border: black solid 2px;
+}
+    .presentation {
+        margin-left: 2%;
+            font-size: 1.1em;
+                padding: 0.5%;
+                  
+}
+    .listePresentation {
+            margin: auto;
+                list-style-type: none;
+                
+}
+
+    section {
+        display:flex;
+}
